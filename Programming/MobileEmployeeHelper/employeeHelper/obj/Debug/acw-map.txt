@@ -1,0 +1,12 @@
+employeeHelper.EmployerInfo, employeeHelper;md5f758876cf774dc5957f72a16c05475e1.EmployerInfo
+employeeHelper.EmployerInfo, employeeHelper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f758876cf774dc5957f72a16c05475e1.EmployerInfo
+employeeHelper.EmployerInfo;md5f758876cf774dc5957f72a16c05475e1.EmployerInfo
+employeehelper.EmployerInfo;md5f758876cf774dc5957f72a16c05475e1.EmployerInfo
+employeeHelper.MainActivity, employeeHelper;md5f758876cf774dc5957f72a16c05475e1.MainActivity
+employeeHelper.MainActivity, employeeHelper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f758876cf774dc5957f72a16c05475e1.MainActivity
+employeeHelper.MainActivity;md5f758876cf774dc5957f72a16c05475e1.MainActivity
+employeehelper.MainActivity;md5f758876cf774dc5957f72a16c05475e1.MainActivity
+employeeHelper.Schedule, employeeHelper;md5f758876cf774dc5957f72a16c05475e1.Schedule
+employeeHelper.Schedule, employeeHelper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f758876cf774dc5957f72a16c05475e1.Schedule
+employeeHelper.Schedule;md5f758876cf774dc5957f72a16c05475e1.Schedule
+employeehelper.Schedule;md5f758876cf774dc5957f72a16c05475e1.Schedule

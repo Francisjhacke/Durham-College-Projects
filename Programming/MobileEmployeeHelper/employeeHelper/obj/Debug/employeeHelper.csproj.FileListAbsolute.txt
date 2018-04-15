@@ -1,0 +1,17 @@
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\employeeHelper.csprojResolveAssemblyReference.cache
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\bin\Debug\employeeHelper.dll
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\bin\Debug\employeeHelper.pdb
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\bin\Debug\employeeHelper.employeeHelper.apk
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\bin\Debug\employeeHelper.employeeHelper-Signed.apk
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\employeeHelper.dll
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\employeeHelper.pdb
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\android\bin\employeeHelper.employeeHelper.apk
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\res\layout\main.xml
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\res\values\strings.xml
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\res\drawable\icon.png
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\R.cs.flag
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\uploadflags.txt
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\res\layout\schedule.xml
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\res\layout\employerinfo.xml
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\obj\Debug\employeeHelper.dll.mdb
+D:\cpa_durham_college\Winter 2016\MODE\projects\Project 4\employeeHelper\employeeHelper\bin\Debug\employeeHelper.dll.mdb
