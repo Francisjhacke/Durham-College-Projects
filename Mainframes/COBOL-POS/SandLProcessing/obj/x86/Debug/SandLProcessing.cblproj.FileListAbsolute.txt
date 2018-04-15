@@ -1,0 +1,3 @@
+D:\cpa_durham_college\Winter 2016\MAFD\Final Project\FinalProject\SandLProcessing\bin\x86\Debug\SandLProcessing.exe
+D:\cpa_durham_college\Winter 2016\MAFD\Final Project\FinalProject\SandLProcessing\obj\x86\Debug\SandLProcessing.exe
+D:\cpa_durham_college\Winter 2016\MAFD\Final Project\FinalProject\SandLProcessing\obj\x86\Debug\SandLProcessing.cblprojResolveAssemblyReference.cache

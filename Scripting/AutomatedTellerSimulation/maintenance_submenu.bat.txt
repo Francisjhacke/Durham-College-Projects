@@ -1,0 +1,114 @@
+REM Program Name : maintenace_submenu.bat
+REM Course Code: COPS 1104
+REM Authors: Francis Hackenberger, Henry Van Der Werf, Gurvir Singh, and Sukhdeep Singh
+REM Date: 2015-04-12
+
+REM Description: This is the submenu file included in the DOS final project for COPS.
+REM				 It provides a menu in which the user may select the options to create
+REM				 delete, list, rollback or return to the main menu.
+REM --------------------------------------------------------------------------------
+
+title ACCOUNT MAINTENANCE
+
+CLS
+REM ACCOUNT MAINTENANCE SUB MENU
+echo i.)   Create an account
+echo ii.)  Delete an account
+echo iii.) List all accounts
+echo iv.)  Roll-back transactions
+echo v.)   Return to Previous Page
+
+set /p choice=select:
+if %choice%==i goto :CREATE
+if %choice%==ii goto :DELETE
+if %choice%==iii goto :LIST
+if %choice%==iv goto :ROLLBACK
+if %choice%==v goto :RETURN
+
+REM Create an account by entering an account code, name and opening deposit amount.
+:CREATE
+CLS
+title CREATE AN ACCOUNT
+echo Account Creation
+echo ================================
+set /p acct_code=Enter account code   : 
+set /p acct_name=Enter account name   : 
+set /p amount=   Enter opening amount : 
+
+setlocal ENABLEDELAYEDEXPANSION
+set flag=0
+for /f "tokens=1-3 delims=," %%a in (accounts_file.txt) do (
+	if %%a==!acct_code! (            
+		echo Account already exists!
+		set flag=1					REM if the account code entered already exists, set the flag to 1
+		)
+)
+if !flag!==0 (		REM otherwise create the account and insert information in the files.
+	echo %acct_code%,%acct_name%,%amount% >> accounts_file.txt
+	echo %date%,%acct_code%,Created,%amount% >> log.txt
+	echo Account Created Successfully!
+)	 
+PAUSE
+cls
+goto:return
+
+REM Delete an account by entering an account code. 
+:DELETE
+CLS
+title DELETE AN ACCOUNT
+echo Delete an Account
+echo ================================
+set /p acct_code=Enter account code   : 
+
+setlocal ENABLEDELAYEDEXPANSION
+
+for /f "tokens=1-3 delims=," %%r in (accounts_file.txt) do (
+  if %%r==!acct_code! (            
+	set denote=xxxxx
+	echo !denote!,!denote!,!denote! >>accounts_file.tmp
+	echo %date%,%%r,Deleted,!amount! >>log.txt
+	echo Account successfully deleted!
+	)   else (
+                          echo %%r,%%s,%%t >> accounts_file.tmp
+	)	
+) 
+
+copy accounts_file.tmp accounts_file.txt
+del accounts_file.tmp
+
+PAUSE
+CLS
+goto:return
+
+REM List all the accounts by "type"ing the accounts_file.txt to the console
+:LIST
+CLS
+
+Title ACCOUNTS LIST
+echo List All Accounts
+echo ================================
+REM type the accounts_file.txt to the console.
+TYPE accounts_file.txt
+
+PAUSE
+CLS
+
+REM rollback all transactions to a previous state in the system.
+:ROLLBACK
+CLS
+title ROLLBACK 
+echo RollBack all transcations
+echo ================================
+set /p rollback_date=Enter a date to rollback from  : 
+
+REM -- Rollback script here --
+
+
+PAUSE
+CLS
+goto:return
+
+REM Return the main menu
+:RETURN
+CLS
+call main_menu.bat

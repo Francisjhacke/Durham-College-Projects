@@ -1,0 +1,146 @@
+REM Program Name : main_menu.bat
+REM Course Code: COPS 1104
+REM Authors: Francis Hackenberger, Henry Van Der Werf, Gurvir Singh, and Sukhdeep Singh
+REM Date: 2015-04-12
+
+REM Description: This DOS program is executed from the command prompt and features
+REM				 A banking system in which users can display their account balance,
+REM				 make deposits, withdrawals, maintain their accounts. For example:
+REM				 creating an account, deleting an account, showing account activity,
+REM				 and listing all accounts found in the system.
+REM --------------------------------------------------------------------------------
+
+CLS
+@echo off
+Title DOS BANKING SYSTEM
+
+REM MAIN MENU
+:return
+echo Welcome To DOS Banking System
+echo a.)  Display Account Balance
+echo b.)  Deposit to an Account
+echo c.)  Withdraw From an Account
+echo d.)  Show Account Activity
+echo e.)  Account Maintenance
+echo f.)  Exit
+
+set /p choice=select:
+if %choice%==a goto :BALANCE
+if %choice%==b goto :DEPOSIT
+if %choice%==c goto :WITHDRAW
+if %choice%==d goto :ACTIVITY
+if %choice%==e goto :MAINTENANCE
+if %choice%==f goto :EXIT
+
+REM Display the account balance by entering the account number you want to see
+:BALANCE
+CLS
+
+Title ACCOUNT BALANCE
+echo Account Balance
+echo ================================
+set /p acct_code=Enter account code     : 
+
+setlocal ENABLEDELAYEDEXPANSION
+set flag=0
+for /f "tokens=1-3 delims=," %%a in (accounts_file.txt) do (
+	if %%a==!acct_code! (    			        
+		echo Account Code : %%a
+		echo Account Name : %%b 
+		echo Account Balance: %%c
+		set flag=1					REM if an account code was found then set the flag to 1
+		)
+)
+if !flag!==0 echo Account NOT Found! REM an account wasn't found with the specified account code
+PAUSE
+cls
+goto:return
+
+REM Input an account number to deposit a whole number into that account
+:DEPOSIT
+CLS
+Title ACCOUNT DEPOSIT
+set amount=0
+echo Account Deposit
+echo ================================
+set /p acct_code=Enter account code     : 
+set /p amount=Enter deposit amount : 
+
+setlocal ENABLEDELAYEDEXPANSION
+
+for /f "tokens=1-3 delims=," %%r in (accounts_file.txt) do (
+  if %%r==!acct_code! (            
+	set /a new_amount=%%t+!amount!
+	echo %%r,%%s,!new_amount! >>accounts_file.tmp
+	echo %date%,%%r,Deposit,!amount! >>log.txt
+	echo You now have $!new_amount! in your account.
+	echo.
+	)   else (
+                          echo %%r,%%s,%%t >> accounts_file.tmp
+						  echo Account NOT found!
+	)	
+) 
+
+copy accounts_file.tmp accounts_file.txt                               
+del accounts_file.tmp
+
+PAUSE
+CLS
+goto:return
+
+REM input a whole number to withdraw from that account
+:WITHDRAW 
+CLS
+Title ACCOUNT WITHDRAW
+set amount=0
+echo Account Withdraw
+echo ================================
+set /p acct_code=Enter account code        : 
+set /p amount=Enter withdrawal amount : 
+
+setlocal ENABLEDELAYEDEXPANSION
+REM loop through the file for the account code entered and perform subtraction from the total
+for /f "tokens=1-3 delims=," %%r in (accounts_file.txt) do (
+  if %%r==!acct_code! (            
+	set /a new_amount=%%t-!amount!
+	echo %%r,%%s,!new_amount! >>accounts_file.tmp
+	echo %date%,%%r,Withdraw,!amount! >>log.txt
+	echo You now have $!new_amount! in your account.
+	echo.
+	)   else (
+                          echo %%r,%%s,%%t >> accounts_file.tmp
+						  echo Account NOT found!
+	)	
+) 
+
+copy accounts_file.tmp accounts_file.txt
+del accounts_file.tmp
+
+PAUSE
+CLS
+goto:return
+
+REM View all account activity on the system through the log.txt file
+:ACTIVITY
+CLS
+
+Title ACCOUNT ACTIVITY
+echo Account Acitivty
+echo ================================
+
+REM Type the log.txt file to the console.
+TYPE log.txt
+echo.
+
+PAUSE
+cls
+goto:return
+
+REM call to the maintenace_submenu.bat file where account maintenace can be handled
+:MAINTENANCE
+REM calls the sub-menu file. 
+call maintenance_submenu.bat
+GOTO EXIT
+
+REM exit the program
+:EXIT

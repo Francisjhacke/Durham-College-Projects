@@ -1,0 +1,67 @@
+Transaction     Transaction   Payment     Store     Invoice       SKU
+   Code          Amount        Type        NO         NO          CODE
+
+     S           0000999        CR         01      AS-0000A3    WI8HRW8H43FJSHF                    **AS-0000A3  - Invalid invoice number**
+
+     R           0002499        CR         02      BS-0002M2                    **BS-0002M2  - Invalid invoice number**
+                             **Invalid sku code**
+
+     S           000100X        CW         02      XX-000001    AADFSKJ84MS0913                    **000100X - Invalid transaction amount**
+
+     S           0008999        CR         02      AS-0S0030    WI8HRW8H43FJSHF                    **AS-0S0030  - Invalid invoice number**
+
+     X           000099X        CR         02      AS-000033    WI8HRW8H43FJSHF                    **X - Invalid transacation code**
+                    **000099X - Invalid transaction amount**
+
+     R           0012499        CR         02      AS-000122                             **Invalid sku code**
+
+     X           0014999        CR         02      AZ-000036    247R20EHF02EF8E                    **X - Invalid transacation code**
+
+     R           0002499        CR         02      AS-000212                             **Invalid sku code**
+
+     X           0012999        DB         02      ZZ-000219    247R20EHF02EF8E                    **X - Invalid transacation code**
+
+     L           0004999        DB         02      A3-000224    LFW8H88W84HFW4F                    **A3-000224  - Invalid invoice number**
+
+     S           0002000        CA         02      X3-000225    SDFSKJ84MS09123                    **X3-000225  - Invalid invoice number**
+
+     L           0014999        DB         12      AD-000234    LFW8H88W84HFW4F                           **12 - Invalid store number**
+
+     C           0014999        CR         02      AZ-000336    247R20EHF02EF8E                    **C - Invalid transacation code**
+
+     R           0002499        CR         13      AS-000402    FLW8H4FW8H4FWF4                           **13 - Invalid store number**
+
+     S           0001000        CA         13      XX-000408    SDFSKJ84MS09123                           **13 - Invalid store number**
+
+     R           0002499        CR         03      B3-000402    FLW8H4FW8H4FWF4                    **B3-000402  - Invalid invoice number**
+
+     S           0014999        CR         17      BZ-000406    247R20EHF02EF8E                           **17 - Invalid store number**
+
+     R           0002999        DB         07      BS-00S407    WI8HRW8H43FJSHF                    **BS-00S407  - Invalid invoice number**
+
+     S           0001000        CA         07      BX-00S508    SDFSKJ84MS09123                    **BX-00S508  - Invalid invoice number**
+
+     R           0002499        CR         07      BS-000512                             **Invalid sku code**
+
+     S           007100X        CW         07      XX-000501    AADFSKJ84MS0913                    **007100X - Invalid transaction amount**
+
+     S           000099X        CR         07      AS-000633    WI8HRW8H43FJSHF                    **000099X - Invalid transaction amount**
+
+     R           0012499        CR         07      AS-000722                             **Invalid sku code**
+
+     X           0014999        CR         07      AZ-000636    247R20EHF02EF8E                    **X - Invalid transacation code**
+
+     R           0002499        CR         07      AS-000612                             **Invalid sku code**
+
+     R           0002400        CA         07      XX-00S615    SDFSKJ84MS09123                    **XX-00S615  - Invalid invoice number**
+
+     W           0012999        DB         07      ZZ-000619    247R20EHF02EF8E                    **W - Invalid transacation code**
+
+     S           0001000        CA         07      X3-000631    SDFSKJ84MS09123                    **X3-000631  - Invalid invoice number**
+
+     R           0000499        CR         07      AS-0N0622    F4WO8JFO8W4JFW8                    **AS-0N0622  - Invalid invoice number**
+
+     X           0014999        CR         07      AZ-000636    247R20EHF02EF8E                    **X - Invalid transacation code**
+
+
+Good records total:   122          Bad records total:    30

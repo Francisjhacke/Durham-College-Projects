@@ -1,0 +1,4 @@
+D:\Winter 2015\NETD\Visual Studio Projects\HackenbergerFinal\Lab5\bin\Debug\Lab5.exe.config
+D:\Winter 2015\NETD\Visual Studio Projects\HackenbergerFinal\Lab5\obj\Debug\Lab5.exe
+D:\Winter 2015\NETD\Visual Studio Projects\HackenbergerFinal\Lab5\obj\Debug\Lab5.xml
+D:\Winter 2015\NETD\Visual Studio Projects\HackenbergerFinal\Lab5\obj\Debug\Lab5.pdb
