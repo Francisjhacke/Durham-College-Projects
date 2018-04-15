@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="DurakCardDemo.CurrentPlayControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DurakCardDemo"
+             xmlns:card="clr-namespace:CardLib;assembly=CardLib"
+             mc:Ignorable="d" 
+             d:DesignHeight="144" d:DesignWidth="71" Width="71" Height="144" Background="gray">
+    <Grid>
+        
+            <card:CardControl x:Name="playedCardOne" Height="96" Width="71" Margin="0,0,0,48"/>
+            <card:CardControl x:Name="playedCardTwo" Height="96" Width="71" Margin="0,48,0,0"/>
+        
+ 
+    </Grid>
+</UserControl>

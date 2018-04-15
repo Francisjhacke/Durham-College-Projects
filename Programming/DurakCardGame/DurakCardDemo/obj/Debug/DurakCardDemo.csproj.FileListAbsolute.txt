@@ -1,0 +1,48 @@
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\bin\Debug\DurakCardDemo.exe.config
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\bin\Debug\DurakCardDemo.exe
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\bin\Debug\DurakCardDemo.pdb
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\DurakCardDemo.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\Card.g.cs
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\App.g.cs
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\DurakCardDemo_MarkupCompile.cache
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\DurakCardDemo_MarkupCompile.lref
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\Card.baml
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\MainWindow.baml
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\DurakCardDemo.g.resources
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\DurakCardDemo.Properties.Resources.resources
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\DurakCardDemo.csproj.GenerateResource.Cache
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\DurakCardDemo.exe
+C:\Users\Joshua\AppData\Local\Temporary Projects\DurakCardDemo\obj\Debug\DurakCardDemo.pdb
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\bin\Debug\DurakCardDemo.exe.config
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\bin\Debug\DurakCardDemo.exe
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\bin\Debug\DurakCardDemo.pdb
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\bin\Debug\CardLib.dll
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\bin\Debug\CardLib.pdb
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\Pages\GamePlay.g.cs
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\Pages\StartScreen.g.cs
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\App.g.cs
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo_MarkupCompile.cache
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo_MarkupCompile.lref
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\MainWindow.baml
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\Pages\GamePlay.baml
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\Pages\StartScreen.baml
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo.g.resources
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo.Properties.Resources.resources
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo.exe
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo.pdb
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\DurakCardDemo\DurakCardDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\cpa_durham_college\Winter 2016\OOP III\Group5 Final Project\Progress Report 4\DurakCardDemo\DurakCardDemo\bin\Debug\DurakCardDemo.exe.config
+D:\cpa_durham_college\Winter 2016\OOP III\Group5 Final Project\Progress Report 4\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo.exe
+D:\cpa_durham_college\Winter 2016\OOP III\Group5 Final Project\Progress Report 4\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo.pdb
+D:\cpa_durham_college\Winter 2016\OOP III\Group5 Final Project\Progress Report 4\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo.csprojResolveAssemblyReference.cache
+D:\cpa_durham_college\Winter 2016\OOP III\Group5 Final Project\Progress Report 4\DurakCardDemo\DurakCardDemo\obj\Debug\MainWindow.g.cs
+D:\cpa_durham_college\Winter 2016\OOP III\Group5 Final Project\Progress Report 4\DurakCardDemo\DurakCardDemo\obj\Debug\Pages\GamePlay.g.cs
+D:\cpa_durham_college\Winter 2016\OOP III\Group5 Final Project\Progress Report 4\DurakCardDemo\DurakCardDemo\obj\Debug\Pages\StartScreen.g.cs
+D:\cpa_durham_college\Winter 2016\OOP III\Group5 Final Project\Progress Report 4\DurakCardDemo\DurakCardDemo\obj\Debug\App.g.cs
+D:\cpa_durham_college\Winter 2016\OOP III\Group5 Final Project\Progress Report 4\DurakCardDemo\DurakCardDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\cpa_durham_college\Winter 2016\OOP III\Group5 Final Project\Progress Report 4\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo_MarkupCompile.cache
+D:\cpa_durham_college\Winter 2016\OOP III\Group5 Final Project\Progress Report 4\DurakCardDemo\DurakCardDemo\obj\Debug\DurakCardDemo_MarkupCompile.lref

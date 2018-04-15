@@ -1,0 +1,2166 @@
+Player Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Queen
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Ten
+Suit: Heart Rank: Ten
+Suit: Heart Rank: Ace
+AI Hand:
+Suit: Spade Rank: Eight
+Suit: Heart Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Spade Rank: Jack
+Suit: Club Rank: Jack
+Suit: Diamond Rank: Queen
+Player Attacked with The Eight of ClubsPlayer Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Jack
+Suit: Club Rank: Queen
+Suit: Club Rank: Ace
+Suit: Spade Rank: Queen
+Suit: Heart Rank: Ace
+AI Hand:
+Suit: Diamond Rank: Ace
+Suit: Diamond Rank: Six
+Suit: Club Rank: Seven
+Suit: Diamond Rank: Ten
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Jack
+Player Attacked with The Six of ClubsAI Defended with The Ace of DiamondsPlayer Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Seven
+Suit: Heart Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Ten
+Player Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Nine
+Suit: Club Rank: Ten
+Suit: Club Rank: Queen
+Suit: Diamond Rank: Ten
+Suit: Spade Rank: Ace
+AI Hand:
+Suit: Diamond Rank: Queen
+Suit: Heart Rank: Six
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Ten
+Suit: Club Rank: Six
+Suit: Spade Rank: Nine
+Player Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Ace
+Suit: Heart Rank: Jack
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Ten
+Suit: Spade Rank: Queen
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Jack
+Suit: Heart Rank: Ace
+Suit: Heart Rank: Six
+Suit: Spade Rank: Ten
+Player Hand:
+Suit: Club Rank: Seven
+Suit: Club Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Diamond Rank: Ace
+Suit: Heart Rank: Seven
+AI Hand:
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Ace
+Suit: Heart Rank: Six
+Suit: Diamond Rank: Eight
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Jack
+Player Hand:
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Ten
+Suit: Club Rank: Nine
+Suit: Club Rank: Queen
+AI Hand:
+Suit: Diamond Rank: Eight
+Suit: Club Rank: Eight
+Suit: Club Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Queen
+Player Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Seven
+Suit: Spade Rank: Six
+Suit: Spade Rank: Seven
+Suit: Diamond Rank: Ten
+Suit: Heart Rank: Ace
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Queen
+Suit: Spade Rank: Ace
+Player Hand:
+Suit: Club Rank: Seven
+Suit: Heart Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Queen
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Ten
+AI Hand:
+Suit: Heart Rank: Eight
+Suit: Club Rank: Ten
+Suit: Diamond Rank: Ten
+Suit: Spade Rank: Queen
+Suit: Heart Rank: Ace
+Suit: Diamond Rank: Seven
+Player Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Jack
+Suit: Heart Rank: Six
+Suit: Heart Rank: Eight
+Suit: Diamond Rank: Seven
+Suit: Spade Rank: Ace
+AI Hand:
+Suit: Club Rank: Seven
+Suit: Diamond Rank: Ace
+Suit: Diamond Rank: Ten
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Queen
+Suit: Heart Rank: Ace
+Player Hand:
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Queen
+Suit: Club Rank: Eight
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Club Rank: Six
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Jack
+Player Hand:
+Suit: Club Rank: Nine
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Jack
+AI Hand:
+Suit: Club Rank: Six
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Eight
+Suit: Club Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Queen
+Player Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Ace
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Jack
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Club Rank: Six
+Suit: Diamond Rank: Seven
+Suit: Club Rank: Seven
+Suit: Heart Rank: Nine
+Suit: Club Rank: Jack
+Player Hand:
+Suit: Club Rank: Ten
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Jack
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Ace
+AI Hand:
+Suit: Spade Rank: Seven
+Suit: Heart Rank: Seven
+Suit: Club Rank: Eight
+Suit: Heart Rank: Eight
+Suit: Club Rank: Nine
+Suit: Heart Rank: Jack
+Player Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Eight
+Suit: Heart Rank: Ten
+Suit: Heart Rank: Jack
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Jack
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Diamond Rank: Ace
+Suit: Club Rank: Seven
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Queen
+Player Hand:
+Suit: Club Rank: Ten
+Suit: Club Rank: Jack
+Suit: Spade Rank: Six
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Queen
+AI Hand:
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Ace
+Suit: Diamond Rank: Eight
+Suit: Club Rank: Eight
+Suit: Club Rank: Ace
+Suit: Heart Rank: Jack
+Player Hand:
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Queen
+Suit: Club Rank: Six
+Suit: Club Rank: Nine
+Player Hand:
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Ten
+Suit: Club Rank: Seven
+Suit: Club Rank: Eight
+AI Hand:
+Suit: Heart Rank: Seven
+Suit: Club Rank: Nine
+Suit: Club Rank: Jack
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Jack
+Suit: Diamond Rank: Ace
+Player Hand:
+Suit: Club Rank: Queen
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Jack
+AI Hand:
+Suit: Spade Rank: Nine
+Suit: Club Rank: Ten
+Suit: Diamond Rank: Ten
+Suit: Heart Rank: Jack
+Suit: Club Rank: Ace
+Suit: Spade Rank: Ace
+Player Hand:
+Suit: Club Rank: Ten
+Suit: Club Rank: Ace
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Diamond Rank: Ace
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Seven
+Suit: Diamond Rank: Nine
+Suit: Spade Rank: Nine
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Ten
+Player Hand:
+Suit: Club Rank: Six
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Nine
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Jack
+Suit: Spade Rank: Queen
+Suit: Club Rank: Ace
+Player Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Ten
+Suit: Club Rank: Jack
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Eight
+AI Hand:
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Ace
+Player Hand:
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Jack
+Suit: Club Rank: Eight
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Club Rank: Six
+Suit: Club Rank: Seven
+Suit: Spade Rank: Eight
+Suit: Club Rank: Queen
+Suit: Club Rank: Ace
+Player Attacked with The Nine of HeartsAI Defended with The Six of SpadesPlayer Hand:
+Suit: Club Rank: Jack
+Suit: Club Rank: Queen
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Nine
+AI Hand:
+Suit: Heart Rank: Nine
+Suit: Club Rank: Nine
+Suit: Club Rank: Ten
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Jack
+Suit: Heart Rank: Ace
+Player Attacked with The Jack of ClubsAI Defended with The Nine of HeartsPlayer Hand:
+Suit: Club Rank: Queen
+Suit: Heart Rank: Six
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Ace
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Diamond Rank: Nine
+Suit: Club Rank: Ten
+Suit: Club Rank: Jack
+Suit: Spade Rank: Queen
+Suit: Heart Rank: Ace
+Player Attacked with The Six of HeartsAI Defended with The Six of SpadesPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Jack
+Suit: Club Rank: Queen
+Suit: Club Rank: Ace
+Suit: Heart Rank: Six
+Suit: Heart Rank: Ace
+AI Hand:
+Suit: Spade Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Nine
+Suit: Club Rank: Ten
+Suit: Spade Rank: Jack
+Suit: Spade Rank: Queen
+Player Attacked with The Eight of ClubsPlayer Hand:
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Club Rank: Eight
+Suit: Club Rank: Nine
+Suit: Club Rank: Ten
+AI Hand:
+Suit: Heart Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Ace
+Player Attacked with The Eight of ClubsPlayer Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Ten
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Queen
+Suit: Heart Rank: Eight
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Seven
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Ace
+Suit: Heart Rank: Ace
+Player Attacked with The Six of ClubsPlayer Hand:
+Suit: Club Rank: Jack
+Suit: Spade Rank: Six
+Suit: Diamond Rank: Eight
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Ten
+Suit: Heart Rank: Jack
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Club Rank: Eight
+Suit: Club Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Queen
+Player Attacked with The Six of SpadesAI Defended with The Eight of ClubsPlayer Attacked with The Eight of DiamondsAI Defended with The Nine of ClubsPlayer Hand:
+Suit: Club Rank: Seven
+Suit: Heart Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Queen
+Suit: Diamond Rank: Ace
+Suit: Spade Rank: Seven
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Nine
+Suit: Club Rank: Nine
+Suit: Diamond Rank: Ten
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Ace
+Player Hand:
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Six
+Suit: Diamond Rank: Jack
+AI Hand:
+Suit: Club Rank: Six
+Suit: Diamond Rank: Six
+Suit: Club Rank: Eight
+Suit: Spade Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Ten
+Player Hand:
+Suit: Heart Rank: Ten
+Suit: Heart Rank: Jack
+Suit: Spade Rank: Six
+Suit: Spade Rank: Jack
+Suit: Club Rank: Nine
+Suit: Club Rank: Ten
+AI Hand:
+Suit: Heart Rank: Seven
+Suit: Spade Rank: Seven
+Suit: Club Rank: Eight
+Suit: Diamond Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Club Rank: Queen
+Player Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Six
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Ten
+AI Hand:
+Suit: Diamond Rank: Seven
+Suit: Spade Rank: Seven
+Suit: Heart Rank: Nine
+Suit: Club Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Queen
+Player Attacked with The Six of SpadesAI Defended with The Seven of DiamondsPlayer Hand:
+Suit: Club Rank: Queen
+Suit: Spade Rank: Jack
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Nine
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Ace
+AI Hand:
+Suit: Diamond Rank: Seven
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Diamond Rank: Ace
+Player Attacked with The Nine of DiamondsAI Defended with The Nine of HeartsPlayer Attacked with The Eight of HeartsPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Spade Rank: Six
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Ten
+Suit: Heart Rank: Nine
+AI Hand:
+Suit: Club Rank: Six
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Club Rank: Jack
+Suit: Heart Rank: Ace
+Suit: Diamond Rank: Ace
+Player Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Eight
+Suit: Club Rank: Ace
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Nine
+AI Hand:
+Suit: Diamond Rank: Eight
+Suit: Heart Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Club Rank: Ten
+Suit: Heart Rank: Ace
+Player Attacked with The Six of ClubsPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Jack
+Suit: Club Rank: Ace
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Heart Rank: Seven
+AI Hand:
+Suit: Spade Rank: Seven
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Spade Rank: Ace
+Player Attacked with The Ace of ClubsPlayer Hand:
+Suit: Heart Rank: Six
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Queen
+Suit: Diamond Rank: Ace
+AI Hand:
+Suit: Club Rank: Nine
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Nine
+Suit: Spade Rank: Queen
+Suit: Heart Rank: Ace
+Suit: Club Rank: Ace
+Player Attacked with The Ace of SpadesPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Queen
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Ace
+Suit: Heart Rank: Seven
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Heart Rank: Six
+Suit: Club Rank: Seven
+Suit: Spade Rank: Jack
+Suit: Club Rank: Jack
+Suit: Heart Rank: Jack
+Player Attacked with The Ace of DiamondsPlayer Hand:
+Suit: Heart Rank: Six
+Suit: Spade Rank: Six
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Club Rank: Seven
+AI Hand:
+Suit: Diamond Rank: Seven
+Suit: Spade Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Club Rank: Ten
+Suit: Club Rank: Jack
+Suit: Diamond Rank: Ace
+Player Attacked with The Queen of SpadesPlayer Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Seven
+Suit: Club Rank: Eight
+Suit: Club Rank: Ten
+Suit: Spade Rank: Six
+Suit: Spade Rank: Ten
+AI Hand:
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Nine
+Suit: Spade Rank: Nine
+Suit: Club Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Ace
+Player Hand:
+Suit: Club Rank: Ten
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Ten
+Suit: Heart Rank: Queen
+AI Hand:
+Suit: Club Rank: Six
+Suit: Heart Rank: Seven
+Suit: Club Rank: Eight
+Suit: Club Rank: Nine
+Suit: Club Rank: Jack
+Suit: Diamond Rank: Ace
+Player Attacked with The Ten of DiamondsPlayer Hand:
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Ace
+Suit: Spade Rank: Ace
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Club Rank: Six
+Suit: Diamond Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Queen
+Player Attacked with The Ace of DiamondsPlayer Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Ace
+Suit: Spade Rank: Seven
+AI Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Seven
+Suit: Heart Rank: Eight
+Suit: Club Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Heart Rank: Ace
+Player Hand:
+Suit: Heart Rank: Seven
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Jack
+AI Hand:
+Suit: Club Rank: Seven
+Suit: Diamond Rank: Nine
+Suit: Club Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Ace
+Suit: Club Rank: Ace
+Player Attacked with The Seven of HeartsPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Spade Rank: Jack
+AI Hand:
+Suit: Spade Rank: Seven
+Suit: Club Rank: Nine
+Suit: Spade Rank: Queen
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Ace
+Suit: Club Rank: Ace
+Player Attacked with The Seven of DiamondsPlayer Hand:
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Ten
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Club Rank: Ten
+AI Hand:
+Suit: Spade Rank: Seven
+Suit: Club Rank: Seven
+Suit: Diamond Rank: Nine
+Suit: Club Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Spade Rank: Ace
+Player Attacked with The Six of DiamondsPlayer Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Eight
+Suit: Club Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Ten
+Suit: Heart Rank: Ace
+AI Hand:
+Suit: Diamond Rank: Nine
+Suit: Heart Rank: Jack
+Suit: Club Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Ace
+Player Attacked with The Six of ClubsPlayer Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Ace
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Queen
+Suit: Heart Rank: Ten
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Diamond Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Club Rank: Ten
+Suit: Spade Rank: Queen
+Suit: Spade Rank: Ace
+Player Attacked with The Six of ClubsPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Heart Rank: Six
+Suit: Heart Rank: Ten
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Ace
+Suit: Spade Rank: Six
+AI Hand:
+Suit: Spade Rank: Eight
+Suit: Club Rank: Nine
+Suit: Club Rank: Ten
+Suit: Heart Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Club Rank: Queen
+Player Attacked with The Eight of ClubsPlayer Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Queen
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Ace
+AI Hand:
+Suit: Club Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Spade Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Club Rank: Nine
+Suit: Spade Rank: Queen
+Player Attacked with The Six of ClubsPlayer Hand:
+Suit: Club Rank: Seven
+Suit: Club Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Seven
+AI Hand:
+Suit: Club Rank: Six
+Suit: Spade Rank: Seven
+Suit: Diamond Rank: Nine
+Suit: Club Rank: Ten
+Suit: Diamond Rank: Queen
+Suit: Spade Rank: Ace
+Player Attacked with The Seven of ClubsPlayer Hand:
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Club Rank: Seven
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Club Rank: Eight
+Suit: Club Rank: Nine
+Suit: Spade Rank: Ace
+Suit: Club Rank: Ace
+Suit: Diamond Rank: Ace
+Player Attacked with The Jack of SpadesPlayer Hand:
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Jack
+Suit: Club Rank: Queen
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Spade Rank: Six
+Suit: Club Rank: Seven
+Suit: Heart Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Diamond Rank: Ace
+Player Attacked with The Ace of SpadesPlayer Hand:
+Suit: Club Rank: Jack
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Heart Rank: Jack
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Ten
+Suit: Club Rank: Queen
+Suit: Club Rank: Ace
+Suit: Spade Rank: Ace
+Player Attacked with The Queen of DiamondsPlayer Hand:
+Suit: Club Rank: Nine
+Suit: Club Rank: Queen
+Suit: Club Rank: Ace
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Nine
+AI Hand:
+Suit: Spade Rank: Seven
+Suit: Club Rank: Seven
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Heart Rank: Nine
+Player Attacked with The Ace of ClubsPlayer Hand:
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Nine
+Suit: Club Rank: Ace
+AI Hand:
+Suit: Club Rank: Six
+Suit: Spade Rank: Six
+Suit: Diamond Rank: Eight
+Suit: Club Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Club Rank: Queen
+Player Attacked with The Seven of HeartsPlayer Hand:
+Suit: Heart Rank: Jack
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Ace
+Suit: Club Rank: Ten
+Suit: Club Rank: Jack
+AI Hand:
+Suit: Club Rank: Six
+Suit: Spade Rank: Nine
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Heart Rank: Queen
+Suit: Club Rank: Ace
+Player Attacked with The Jack of HeartsAI Defended with The Queen of HeartsPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Ace
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Heart Rank: Nine
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Ten
+Suit: Heart Rank: Jack
+Suit: Diamond Rank: Ace
+Suit: Spade Rank: Ace
+Player Attacked with The Ace of ClubsPlayer Attacked with The Seven of DiamondsAI Defended with The Ten of DiamondsPlayer Hand:
+Suit: Club Rank: Seven
+Suit: Club Rank: Ace
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Ace
+Suit: Spade Rank: Six
+Suit: Spade Rank: Ten
+AI Hand:
+Suit: Diamond Rank: Seven
+Suit: Heart Rank: Eight
+Suit: Spade Rank: Eight
+Suit: Club Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Heart Rank: Ace
+Player Attacked with The Ace of ClubsPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Jack
+Suit: Club Rank: Ace
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Ace
+Suit: Heart Rank: Six
+AI Hand:
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Jack
+Suit: Heart Rank: Queen
+Player Attacked with The Eight of ClubsPlayer Hand:
+Suit: Club Rank: Ten
+Suit: Heart Rank: Six
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Ace
+AI Hand:
+Suit: Club Rank: Six
+Suit: Diamond Rank: Seven
+Suit: Heart Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Club Rank: Nine
+Player Attacked with The Ace of ClubsPlayer Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Ten
+Suit: Diamond Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Queen
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Spade Rank: Seven
+Suit: Club Rank: Seven
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Queen
+Player Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Seven
+Suit: Club Rank: Ace
+Suit: Heart Rank: Seven
+Suit: Spade Rank: Six
+Suit: Spade Rank: Eight
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Club Rank: Eight
+Suit: Club Rank: Nine
+Suit: Spade Rank: Queen
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Ace
+Player Hand:
+Suit: Heart Rank: Six
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Six
+Suit: Club Rank: Seven
+AI Hand:
+Suit: Club Rank: Six
+Suit: Spade Rank: Six
+Suit: Spade Rank: Eight
+Suit: Club Rank: Ten
+Suit: Heart Rank: Queen
+Suit: Heart Rank: Ace
+Player Hand:
+Suit: Club Rank: Eight
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Queen
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Six
+Suit: Spade Rank: Nine
+AI Hand:
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Spade Rank: Jack
+Suit: Heart Rank: Jack
+Suit: Club Rank: Queen
+Suit: Diamond Rank: Queen
+Player Attacked with The Ace of HeartsPlayer Hand:
+Suit: Heart Rank: Ten
+Suit: Heart Rank: Jack
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Queen
+Suit: Diamond Rank: Ace
+Suit: Club Rank: Queen
+AI Hand:
+Suit: Club Rank: Six
+Suit: Spade Rank: Six
+Suit: Heart Rank: Six
+Suit: Club Rank: Seven
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Ace
+Player Attacked with The Ace of ClubsPlayer Attacked with The Ace of ClubsPlayer Attacked with The Ace of ClubsPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Ten
+Suit: Heart Rank: Seven
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Spade Rank: Ten
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Seven
+Suit: Spade Rank: Jack
+Suit: Heart Rank: Jack
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Ace
+Player Hand:
+Suit: Heart Rank: Ten
+Suit: Heart Rank: Jack
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Jack
+Suit: Spade Rank: Queen
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Club Rank: Seven
+Suit: Club Rank: Eight
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Club Rank: Queen
+Player Hand:
+Suit: Club Rank: Eight
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Jack
+AI Hand:
+Suit: Club Rank: Six
+Suit: Spade Rank: Seven
+Suit: Heart Rank: Queen
+Suit: Club Rank: Queen
+Suit: Spade Rank: Ace
+Suit: Club Rank: Ace
+Player Attacked with The Ace of ClubsPlayer Attacked with The Ace of ClubsPlayer Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Seven
+Suit: Club Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Eight
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Queen
+Suit: Spade Rank: Ace
+Suit: Heart Rank: Ace
+Player Hand:
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Ace
+Suit: Club Rank: Seven
+Suit: Club Rank: Ten
+AI Hand:
+Suit: Heart Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Club Rank: Queen
+Suit: Diamond Rank: Queen
+Player Hand:
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Ten
+Suit: Club Rank: Eight
+Suit: Club Rank: Ten
+Suit: Club Rank: Queen
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Spade Rank: Six
+Suit: Spade Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Queen
+Suit: Heart Rank: Queen
+Player Hand:
+Suit: Spade Rank: Six
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Ace
+Suit: Club Rank: Ten
+AI Hand:
+Suit: Heart Rank: Seven
+Suit: Diamond Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Ten
+Suit: Spade Rank: Jack
+Suit: Spade Rank: Queen
+Player Hand:
+Suit: Club Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Six
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Seven
+AI Hand:
+Suit: Club Rank: Seven
+Suit: Spade Rank: Seven
+Suit: Club Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Heart Rank: Queen
+Suit: Club Rank: Ace
+Player Hand:
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Jack
+Suit: Spade Rank: Six
+Suit: Diamond Rank: Eight
+Suit: Club Rank: Six
+Suit: Club Rank: Ace
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Heart Rank: Seven
+Suit: Club Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Ten
+Suit: Club Rank: Queen
+Player Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Nine
+Suit: Club Rank: Jack
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Jack
+AI Hand:
+Suit: Spade Rank: Seven
+Suit: Club Rank: Ten
+Suit: Heart Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Ace
+Player Hand:
+Suit: Club Rank: Queen
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Six
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Jack
+AI Hand:
+Suit: Club Rank: Seven
+Suit: Heart Rank: Eight
+Suit: Club Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Jack
+Player Hand:
+Suit: Club Rank: Queen
+Suit: Club Rank: Ace
+Suit: Heart Rank: Six
+Suit: Heart Rank: Seven
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Ten
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Seven
+Suit: Club Rank: Seven
+Suit: Club Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Ace
+Player Hand:
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Queen
+Suit: Club Rank: Jack
+AI Hand:
+Suit: Club Rank: Six
+Suit: Spade Rank: Seven
+Suit: Club Rank: Seven
+Suit: Club Rank: Ten
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Ace
+Player Attacked with The Seven of DiamondsAI Defended with The Ace of DiamondsPlayer Attacked with The Ten of SpadesAI Defended with The Queen of SpadesPlayer Attacked with The Ten of SpadesPlayer Hand:
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Ten
+Suit: Club Rank: Nine
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Heart Rank: Seven
+Suit: Club Rank: Eight
+Suit: Heart Rank: Queen
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Ace
+Player Attacked with The Nine of ClubsPlayer Hand:
+Suit: Club Rank: Six
+Suit: Heart Rank: Queen
+Suit: Heart Rank: Ace
+Suit: Diamond Rank: Six
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Jack
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Seven
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Diamond Rank: Queen
+Player Attacked with The Jack of SpadesPlayer Hand:
+Suit: Club Rank: Jack
+Suit: Club Rank: Queen
+Suit: Club Rank: Ace
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Queen
+Suit: Diamond Rank: Ace
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Spade Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Queen
+Player Attacked with The Ace of DiamondsPlayer Hand:
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Ten
+Suit: Club Rank: Eight
+Suit: Club Rank: Nine
+Suit: Club Rank: Jack
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Heart Rank: Jack
+Suit: Heart Rank: Queen
+Player Attacked with The Ace of SpadesPlayer Hand:
+Suit: Club Rank: Seven
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Jack
+AI Hand:
+Suit: Spade Rank: Seven
+Suit: Heart Rank: Eight
+Suit: Diamond Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Club Rank: Nine
+Suit: Club Rank: Ten
+Player Attacked with The Seven of ClubsAI Defended with The Nine of ClubsPlayer Attacked with The Queen of SpadesPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Queen
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Nine
+AI Hand:
+Suit: Club Rank: Six
+Suit: Heart Rank: Seven
+Suit: Spade Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Ace
+Player Attacked with The Eight of ClubsPlayer Attacked with The Nine of HeartsPlayer Hand:
+Suit: Club Rank: Seven
+Suit: Club Rank: Nine
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Eight
+Suit: Heart Rank: Ace
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Club Rank: Six
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Queen
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Ace
+Player Attacked with The Seven of SpadesAI Defended with The Ace of SpadesPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Ace
+Suit: Spade Rank: Six
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Jack
+AI Hand:
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Club Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Club Rank: Queen
+Suit: Club Rank: Ace
+Player Attacked with The Eight of ClubsAI Defended with The Ten of ClubsPlayer Hand:
+Suit: Club Rank: Queen
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Jack
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Club Rank: Nine
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Club Rank: Ten
+Suit: Heart Rank: Jack
+Player Hand:
+Suit: Heart Rank: Jack
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Ace
+Suit: Club Rank: Jack
+AI Hand:
+Suit: Spade Rank: Seven
+Suit: Diamond Rank: Seven
+Suit: Club Rank: Eight
+Suit: Club Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Spade Rank: Queen
+Player Attacked with The Ten of SpadesAI Defended with The Queen of SpadesPlayer Attacked with The Ten of SpadesPlayer Hand:
+Suit: Heart Rank: Queen
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Six
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Seven
+Suit: Club Rank: Queen
+AI Hand:
+Suit: Club Rank: Six
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Ace
+Player Attacked with The Six of SpadesAI Defended with The Eight of SpadesPlayer Attacked with The Six of DiamondsAI Defended with The Eight of DiamondsPlayer Hand:
+Suit: Club Rank: Seven
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Ten
+Suit: Heart Rank: Jack
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Club Rank: Six
+Suit: Heart Rank: Seven
+Suit: Club Rank: Eight
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Jack
+Player Attacked with The Seven of ClubsPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Club Rank: Ten
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Queen
+Suit: Diamond Rank: Ace
+Suit: Spade Rank: Queen
+AI Hand:
+Suit: Spade Rank: Eight
+Suit: Heart Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Heart Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Jack
+Player Hand:
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Queen
+Suit: Club Rank: Eight
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Ace
+Suit: Club Rank: Ace
+AI Defended with The Ace of SpadesPlayer Attacked with The Ten of SpadesPlayer Attacked with The Ten of SpadesPlayer Attacked with The Ten of SpadesPlayer Attacked with The Ten of SpadesPlayer Attacked with The Ten of SpadesPlayer Attacked with The Ten of SpadesPlayer Attacked with The Ten of SpadesPlayer Attacked with The Ace of ClubsPlayer Hand:
+Suit: Club Rank: Jack
+Suit: Club Rank: Queen
+Suit: Club Rank: Ace
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Queen
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Spade Rank: Six
+Suit: Club Rank: Seven
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Heart Rank: Ten
+Player Attacked with The Ace of ClubsPlayer Attacked with The Ace of ClubsPlayer Hand:
+Suit: Heart Rank: Jack
+Suit: Spade Rank: Six
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Ace
+AI Hand:
+Suit: Diamond Rank: Seven
+Suit: Spade Rank: Seven
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Heart Rank: Queen
+Suit: Club Rank: Ace
+Player Hand:
+Suit: Club Rank: Ten
+Suit: Heart Rank: Seven
+Suit: Spade Rank: Six
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Ten
+AI Hand:
+Suit: Club Rank: Seven
+Suit: Spade Rank: Eight
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Jack
+Player Attacked with The Ace of ClubsPlayer Hand:
+Suit: Club Rank: Ace
+Suit: Heart Rank: Ten
+Suit: Diamond Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Queen
+Suit: Spade Rank: Seven
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Club Rank: Six
+Suit: Heart Rank: Seven
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Jack
+Suit: Spade Rank: Jack
+Player Attacked with The Ace of ClubsPlayer Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Jack
+AI Hand:
+Suit: Club Rank: Eight
+Suit: Heart Rank: Jack
+Suit: Diamond Rank: Queen
+Suit: Spade Rank: Queen
+Suit: Club Rank: Ace
+Suit: Diamond Rank: Ace
+Player Hand:
+Suit: Club Rank: Jack
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Jack
+AI Hand:
+Suit: Spade Rank: Nine
+Suit: Heart Rank: Nine
+Suit: Club Rank: Nine
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Ace
+Suit: Club Rank: Ace
+Player Attacked with The Ace of ClubsPlayer Hand:
+Suit: Club Rank: Seven
+Suit: Club Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Ten
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Spade Rank: Seven
+Suit: Club Rank: Nine
+Suit: Club Rank: Ten
+Suit: Club Rank: Ace
+Suit: Heart Rank: Ace
+Player Hand:
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Jack
+AI Hand:
+Suit: Club Rank: Seven
+Suit: Diamond Rank: Nine
+Suit: Club Rank: Ten
+Suit: Club Rank: Queen
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Ace
+Player Attacked with The Nine of DiamondsPlayer Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Seven
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Jack
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Club Rank: Seven
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Club Rank: Jack
+Suit: Heart Rank: Ace
+AI Defended with The Ace of HeartsPlayer Attacked with The Six of HeartsPlayer Attacked with The Six of HeartsPlayer Attacked with The Six of HeartsPlayer Attacked with The Six of HeartsPlayer Attacked with The Six of HeartsPlayer Attacked with The Six of HeartsPlayer Hand:
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Queen
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Eight
+Suit: Club Rank: Nine
+AI Hand:
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Queen
+Suit: Club Rank: Ace
+Player Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Queen
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Seven
+AI Hand:
+Suit: Club Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Ten
+Suit: Club Rank: Ten
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Queen
+Player Attacked with The Ace of ClubsAI Defended with The Nine of ClubsPlayer Attacked with The Six of ClubsPlayer Hand:
+Suit: Club Rank: Queen
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Six
+Suit: Heart Rank: Nine
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Club Rank: Six
+Suit: Spade Rank: Ten
+Suit: Heart Rank: Queen
+Suit: Club Rank: Ace
+Suit: Diamond Rank: Ace
+AI Defended with The Ace of DiamondsPlayer Attacked with The Six of DiamondsPlayer Hand:
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Six
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Seven
+Suit: Club Rank: Jack
+AI Hand:
+Suit: Diamond Rank: Six
+Suit: Heart Rank: Six
+Suit: Heart Rank: Seven
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Club Rank: Queen
+AI Defended with The Nine of DiamondsPlayer Attacked with The Seven of DiamondsPlayer Hand:
+Suit: Club Rank: Seven
+Suit: Club Rank: Jack
+Suit: Club Rank: Queen
+Suit: Club Rank: Ace
+Suit: Heart Rank: Jack
+Suit: Spade Rank: Jack
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Spade Rank: Ace
+Player Attacked with The Six of HeartsPlayer Hand:
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Jack
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Seven
+Suit: Heart Rank: Six
+Suit: Heart Rank: Jack
+AI Hand:
+Suit: Club Rank: Nine
+Suit: Club Rank: Ten
+Suit: Diamond Rank: Queen
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Ace
+Suit: Heart Rank: Ace
+AI Defended with The Queen of DiamondsPlayer Attacked with The Seven of DiamondsPlayer Hand:
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Jack
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Ace
+Suit: Club Rank: Six
+Suit: Club Rank: Queen
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Diamond Rank: Six
+Suit: Heart Rank: Six
+Suit: Spade Rank: Seven
+Suit: Heart Rank: Seven
+Suit: Diamond Rank: Nine
+Player Attacked with The Six of SpadesPlayer Attacked with The Six of DiamondsPlayer Attacked with The Six of DiamondsPlayer Hand:
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Nine
+Suit: Heart Rank: Jack
+Suit: Diamond Rank: Ten
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Ten
+AI Hand:
+Suit: Diamond Rank: Seven
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Nine
+Suit: Diamond Rank: Jack
+Suit: Spade Rank: Ace
+Player Attacked with The Seven of DiamondsPlayer Hand:
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Jack
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Queen
+Suit: Club Rank: Ten
+Suit: Club Rank: Jack
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Club Rank: Eight
+Suit: Spade Rank: Jack
+Suit: Heart Rank: Queen
+Suit: Diamond Rank: Ace
+Suit: Heart Rank: Ace
+AI Defended with The Queen of HeartsPlayer Attacked with The Seven of HeartsPlayer Hand:
+Suit: Club Rank: Eight
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Ace
+Suit: Diamond Rank: Seven
+Suit: Diamond Rank: Ten
+Suit: Diamond Rank: Queen
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Spade Rank: Seven
+Suit: Diamond Rank: Eight
+Suit: Club Rank: Jack
+Suit: Spade Rank: Queen
+Suit: Heart Rank: Ace
+AI Defended with The Eight of DiamondsPlayer Attacked with The Seven of DiamondsPlayer Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Ten
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Six
+Suit: Diamond Rank: Six
+Suit: Diamond Rank: Nine
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Club Rank: Seven
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Queen
+Suit: Diamond Rank: Ace
+AI Defended with The Ten of SpadesPlayer Attacked with The Six of SpadesPlayer Hand:
+Suit: Club Rank: Ten
+Suit: Club Rank: Jack
+Suit: Club Rank: Queen
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Eight
+Suit: Diamond Rank: Ten
+AI Hand:
+Suit: Spade Rank: Six
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Nine
+Suit: Heart Rank: Queen
+Suit: Spade Rank: Ace
+AI Defended with The Nine of HeartsPlayer Attacked with The Seven of HeartsPlayer Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Eight
+Suit: Club Rank: Ten
+Suit: Spade Rank: Seven
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Ten
+AI Hand:
+Suit: Heart Rank: Eight
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Jack
+Suit: Club Rank: Ace
+Suit: Spade Rank: Ace
+AI Defended with The Ace of ClubsPlayer Attacked with The Six of ClubsPlayer Hand:
+Suit: Heart Rank: Six
+Suit: Heart Rank: Nine
+Suit: Spade Rank: Six
+Suit: Spade Rank: Ten
+Suit: Spade Rank: Jack
+Suit: Diamond Rank: Ten
+AI Hand:
+Suit: Diamond Rank: Seven
+Suit: Spade Rank: Nine
+Suit: Club Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Spade Rank: Queen
+Suit: Heart Rank: Queen
+AI Defended with The Nine of SpadesPlayer Attacked with The Six of SpadesPlayer Attacked with The Nine of ClubsPlayer Attacked with The Nine of ClubsPlayer Attacked with The Nine of ClubsPlayer Attacked with The Nine of ClubsPlayer Hand:
+Suit: Club Rank: Seven
+Suit: Club Rank: Jack
+Suit: Heart Rank: Seven
+Suit: Heart Rank: Ace
+Suit: Spade Rank: Nine
+Suit: Diamond Rank: Nine
+AI Hand:
+Suit: Heart Rank: Six
+Suit: Spade Rank: Seven
+Suit: Club Rank: Eight
+Suit: Spade Rank: Eight
+Suit: Spade Rank: Ten
+Suit: Heart Rank: Ten
+Player Hand:
+Suit: Club Rank: Seven
+Suit: Club Rank: Ace
+Suit: Spade Rank: Nine
+Suit: Spade Rank: Ten
+Suit: Diamond Rank: Six
+Suit: Heart Rank: Nine
+AI Hand:
+Suit: Club Rank: Six
+Suit: Club Rank: Eight
+Suit: Spade Rank: Eight
+Suit: Diamond Rank: Nine
+Suit: Heart Rank: Ten
+Suit: Diamond Rank: Jack
+AI Defended with The Nine of HeartsPlayer Attacked with The Seven of HeartsPlayer attacs with The Nine of HeartsAI defended with The Ace of HeartsPlayer Attacked with The Nine of Hearts
+Player attacs with The Six of Clubs
+AI defended with The Eight of ClubsPlayer Attacked with The Six of Clubs
+AI attacs with The Six of Spades
+Player attakcs with The Eight of SpadesPlayer Attacked with The Ace of Clubs
+Player attakcs with The Nine of Diamonds
+AI defended with The Jack of DiamondsPlayer Attacked with The Nine of Diamonds
+AI attakcs with The Six of Spades
+Player attakcs with The Ace of Clubs
+Player attakcs with The Ten of ClubsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ace of ClubsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Seven of Hearts
+AI defended with The Nine of HeartsPlayer Attacked with The Seven of HeartsPlayer Attacked with The Seven of HeartsPlayer Attacked with The Seven of HeartsPlayer Attacked with The Seven of HeartsPlayer Attacked with The Seven of Hearts
+Player attakcs with The Ace of SpadesPlayer Attacked with The Ace of Clubs
+Player attakcs with The Eight of ClubsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ten of ClubsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Six of Spades
+AI defended with The Ten of SpadesPlayer Attacked with The Six of Spades
+AI attakcs with The Seven of Diamonds
+Player defends with The Nine of Diamonds
+Player attakcs with The Eight of Hearts
+AI defended with The Nine of HeartsPlayer Attacked with The Eight of Hearts
+AI attakcs with The Six of Hearts
+AI attakcs with The Seven of Diamonds
+Player defends with The Queen of Diamonds
+Player attakcs with The Seven of Clubs
+AI defended with The Nine of ClubsPlayer Attacked with The Seven of ClubsPlayer Attacked with The Seven of ClubsPlayer Attacked with The Seven of ClubsPlayer Attacked with The Seven of ClubsPlayer Attacked with The Seven of Clubs
+Player attakcs with The Seven of HeartsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ten of ClubsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Jack of ClubsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ace of ClubsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Six of SpadesPlayer Attacked with The Ace of Clubs
+Player attakcs with The Eight of HeartsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Seven of SpadesPlayer Attacked with The Ace of Clubs
+Player attakcs with The Nine of SpadesPlayer Attacked with The Ace of Clubs
+Player attakcs with The Eight of Spades
+AI defended with The Nine of SpadesPlayer Attacked with The Eight of SpadesPlayer Attacked with The Eight of Spades
+Player attakcs with The Eight of Spades
+AI defended with The Jack of SpadesPlayer Attacked with The Eight of Spades
+AI attakcs with The Six of Diamonds
+Player defends with The Ace of Diamonds
+Player attakcs with The Six of Clubs
+AI defended with The Ten of ClubsPlayer Attacked with The Six of Clubs
+AI attakcs with The Nine of Hearts
+Player defends with The Queen of Hearts
+Player attakcs with The Six of Spades
+AI defended with The Jack of SpadesPlayer Attacked with The Six of Spades
+AI attakcs with The Ten of Hearts
+Player attakcs with The Nine of Spades
+AI attakcs with The Eight of HeartsPlayer Attacked with The Eight of Hearts
+Player attakcs with The Eight of Spades
+AI defended with The Nine of SpadesPlayer Attacked with The Eight of Spades
+AI attakcs with The Seven of Hearts
+Player defends with The Queen of Hearts
+AI attakcs with The Jack of DiamondsPlayer Attacked with The Jack of Diamonds
+Player defends with The Queen of Diamonds
+Player attakcs with The Eight of Hearts
+AI defended with The Nine of HeartsPlayer Attacked with The Eight of Hearts
+AI attakcs with The Eight of Diamonds
+Player defends with The Nine of Diamonds
+AI attakcs with The Eight of SpadesPlayer Attacked with The Eight of Spades
+Player attakcs with The Seven of Spades
+AI defended with The Nine of SpadesPlayer Attacked with The Seven of Spades
+AI attakcs with The Ten of Hearts
+Player defends with The Jack of Hearts
+AI attakcs with The Ten of SpadesPlayer Attacked with The Ten of Spades
+Player attakcs with The Queen of Spades
+AI attakcs with The Six of DiamondsPlayer Attacked with The Six of Diamonds
+Player attakcs with The Seven of Clubs
+AI attakcs with The Six of HeartsPlayer Attacked with The Six of HeartsPlayer Attacked with The Six of Hearts
+Player defends with The Jack of Hearts
+AI attakcs with The Seven of SpadesPlayer Attacked with The Seven of SpadesPlayer Attacked with The Seven of SpadesPlayer Attacked with The Seven of SpadesPlayer Attacked with The Seven of SpadesPlayer Attacked with The Seven of SpadesPlayer Attacked with The Seven of Spades
+Player attakcs with The Eight of Clubs
+AI attakcs with The Seven of ClubsPlayer Attacked with The Seven of Clubs
+Player defends with The Nine of Clubs
+AI attakcs with The Jack of SpadesPlayer Attacked with The Jack of SpadesPlayer Attacked with The Jack of Spades
+Player attakcs with The Jack of Clubs
+AI defended with The Ace of ClubsPlayer Attacked with The Jack of Clubs
+AI attakcs with The Six of Clubs
+Player attakcs with The Eight of Spades
+AI attakcs with The Seven of SpadesPlayer Attacked with The Seven of Spades
+Player defends with The Ten of Spades
+AI attakcs with The Eight of DiamondsPlayer Attacked with The Eight of Diamonds
+Player defends with The Nine of Diamonds
+AI attakcs with The Ten of ClubsPlayer Attacked with The Ten of Clubs
+Player attakcs with The Six of Diamonds
+AI defended with The Ten of DiamondsPlayer Attacked with The Six of Diamonds
+Player attakcs with The Ace of Diamonds
+AI attakcs with The Seven of ClubsPlayer Attacked with The Seven of Clubs
+Player attakcs with The Nine of Hearts
+AI defended with The Jack of HeartsPlayer Attacked with The Nine of Hearts
+Player attakcs with The Six of Clubs
+AI defended with The Eight of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of Clubs
+AI attakcs with The Six of Diamonds
+Player defends with The Ace of Diamonds
+AI attakcs with The Eight of DiamondsPlayer Attacked with The Eight of Diamonds
+Player defends with The Jack of DiamondsPlayer Attacked with The Jack of Diamonds
+Player attakcs with The Eight of Hearts
+AI defended with The Queen of HeartsPlayer Attacked with The Eight of Hearts
+AI attakcs with The Six of Clubs
+Player defends with The Eight of Clubs
+AI attakcs with The Six of HeartsPlayer Attacked with The Six of Hearts
+Player defends with The Nine of HeartsPlayer Attacked with The Nine of Hearts
+Player attakcs with The Seven of Clubs
+AI attakcs with The Six of ClubsPlayer Attacked with The Six of Clubs
+Player defends with The Nine of Clubs
+AI attakcs with The Ten of DiamondsPlayer Attacked with The Ten of Diamonds
+Player defends with The Queen of DiamondsPlayer Attacked with The Queen of Diamonds
+Player attakcs with The Six of Spades
+AI defended with The Eight of SpadesPlayer Attacked with The Six of SpadesPlayer Attacked with The Six of SpadesPlayer Attacked with The Six of SpadesPlayer Attacked with The Six of SpadesPlayer Attacked with The Six of SpadesPlayer Attacked with The Six of Spades
+AI attakcs with The Six of Diamonds
+Player defends with The Eight of Diamonds
+AI attakcs with The Six of ClubsPlayer Attacked with The Six of Clubs
+Player defends with The Seven of ClubsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ten of Clubs
+AI attakcs with The Seven of DiamondsPlayer Attacked with The Seven of Diamonds
+Player attakcs with The Jack of Clubs
+AI attakcs with The Ten of SpadesPlayer Attacked with The Ten of Spades
+Player defends with The Queen of Spades
+AI attakcs with The Jack of DiamondsPlayer Attacked with The Jack of Diamonds
+Player attakcs with The Six of Clubs
+AI defended with The Ten of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of Clubs
+AI attakcs with The Six of Spades
+Player defends with The Nine of Spades
+AI attakcs with The Seven of DiamondsPlayer Attacked with The Seven of Diamonds
+Player attakcs with The Jack of Hearts
+AI attakcs with The Six of HeartsPlayer Attacked with The Six of Hearts
+Player defends with The Ace of Hearts
+AI attakcs with The Seven of HeartsPlayer Attacked with The Seven of Hearts
+Player attakcs with The Nine of Clubs
+AI defended with The Ten of ClubsPlayer Attacked with The Nine of Clubs
+Player attakcs with The Nine of Diamonds
+AI defended with The Ace of DiamondsPlayer Attacked with The Nine of DiamondsPlayer Attacked with The Nine of DiamondsPlayer Attacked with The Nine of DiamondsPlayer Attacked with The Nine of DiamondsPlayer Attacked with The Nine of Diamonds
+AI attakcs with The Six of Clubs
+Player defends with The Jack of Clubs
+AI attakcs with The Six of DiamondsPlayer Attacked with The Six of Diamonds
+Player defends with The Seven of Diamonds
+AI attakcs with The Jack of SpadesPlayer Attacked with The Jack of Spades
+Player attakcs with The Queen of Clubs
+AI defended with The Ace of ClubsPlayer Attacked with The Queen of Clubs
+Player attakcs with The Queen of Diamonds
+Player attakcs with The Eight of Hearts
+AI defended with The Queen of HeartsPlayer Attacked with The Eight of Hearts
+AI attakcs with The Six of Hearts
+Player defends with The Ten of Hearts
+AI attakcs with The Eight of DiamondsPlayer Attacked with The Eight of Diamonds
+Player attakcs with The Seven of Clubs
+AI defended with The Nine of ClubsPlayer Attacked with The Seven of Clubs
+Player attakcs with The Nine of Diamonds
+AI defended with The Jack of DiamondsPlayer Attacked with The Nine of DiamondsPlayer Attacked with The Nine of DiamondsPlayer Attacked with The Nine of DiamondsPlayer Attacked with The Nine of DiamondsPlayer Attacked with The Nine of Diamonds
+AI attakcs with The Six of Diamonds
+Player attakcs with The Eight of Clubs
+AI defended with The Ten of ClubsPlayer Attacked with The Eight of Clubs
+Player attakcs with The Eight of Hearts
+AI attakcs with The Ten of SpadesPlayer Attacked with The Ten of Spades
+Player attakcs with The Eight of Clubs
+AI defended with The Ten of ClubsPlayer Attacked with The Eight of Clubs
+AI attakcs with The Eight of Diamonds
+Player attakcs with The Seven of Clubs
+AI defended with The Ace of ClubsPlayer Attacked with The Seven of Clubs
+Player attakcs with The Ace of Spades
+AI attakcs with The Ten of DiamondsPlayer Attacked with The Ten of Diamonds
+Player attakcs with The Nine of Hearts
+AI defended with The Ten of HeartsPlayer Attacked with The Nine of HeartsPlayer Attacked with The Nine of HeartsPlayer Attacked with The Nine of HeartsPlayer Attacked with The Nine of Hearts
+AI attakcs with The Six of Hearts
+Player defends with The Seven of Hearts
+AI attakcs with The Seven of DiamondsPlayer Attacked with The Seven of Diamonds
+Player defends with The Eight of Diamonds
+AI attakcs with The Eight of SpadesPlayer Attacked with The Eight of SpadesPlayer Attacked with The Eight of Spades
+Player attakcs with The Six of Clubs
+AI defended with The Queen of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of Clubs
+Player attakcs with The Queen of Hearts
+AI attakcs with The Six of DiamondsPlayer Attacked with The Six of Diamonds
+Player defends with The Seven of Diamonds
+AI attakcs with The Six of ClubsPlayer Attacked with The Six of Clubs
+Player defends with The Nine of ClubsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Jack of Clubs
+AI defended with The Queen of ClubsPlayer Attacked with The Jack of ClubsPlayer Attacked with The Jack of Clubs
+Player attakcs with The Jack of Spades
+AI defended with The Queen of SpadesPlayer Attacked with The Jack of SpadesPlayer Attacked with The Jack of SpadesPlayer Attacked with The Jack of SpadesPlayer Attacked with The Jack of SpadesPlayer Attacked with The Jack of Spades
+AI attakcs with The Eight of Spades
+Player defends with The Ten of Spades
+AI attakcs with The Eight of DiamondsPlayer Attacked with The Eight of Diamonds
+Player defends with The Nine of DiamondsPlayer Attacked with The Ace of Clubs
+Player attakcs with The Six of Spades
+AI attakcs with The Six of SpadesPlayer Attacked with The Six of Spades
+Player defends with The Seven of Spades
+AI attakcs with The Ten of DiamondsPlayer Attacked with The Ten of Diamonds
+Player attakcs with The Six of Clubs
+AI defended with The Nine of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of Clubs
+AI attakcs with The Seven of Diamonds
+Player defends with The Eight of Diamonds
+AI attakcs with The Ten of DiamondsPlayer Attacked with The Ten of Diamonds
+Player attakcs with The Seven of Clubs
+AI defended with The Queen of ClubsPlayer Attacked with The Seven of ClubsPlayer Attacked with The Seven of ClubsPlayer Attacked with The Seven of ClubsPlayer Attacked with The Seven of ClubsPlayer Attacked with The Seven of ClubsPlayer Attacked with The Seven of ClubsNew Bout
+AI attakcs with The Eight of Clubs
+Player defends with The Nine of Clubs
+AI attakcs with The Nine of HeartsPlayer Attacked with The Nine of HeartsNew Bout
+Player attakcs with The Eight of ClubsNew Bout
+AI attakcs with The Six of ClubsPlayer Attacked with The Six of Clubs
+Player defends with The Nine of Clubs
+AI attakcs with The Eight of ClubsPlayer Attacked with The Eight of Clubs
+Player attakcs with The Seven of Hearts
+AI defended with The Jack of HeartsPlayer Attacked with The Seven of HeartsPlayer Attacked with The Seven of Hearts
+Player attakcs with The Seven of Diamonds
+AI defended with The Eight of DiamondsPlayer Attacked with The Seven of Diamonds
+Player attakcs with The Eight of Hearts
+New Bout
+AI attakcs with The Seven of HeartsPlayer Attacked with The Seven of Hearts
+Player defends with The Queen of Hearts
+AI attakcs with The Seven of DiamondsPlayer Attacked with The Seven of Diamonds
+Player defends with The Ace of Diamonds
+AI attakcs with The Queen of DiamondsPlayer Attacked with The Queen of Diamonds
+New Bout
+Player attakcs with The Seven of Hearts
+AI defended with The Eight of HeartsPlayer Attacked with The Seven of Hearts
+Player attakcs with The Eight of Spades
+AI defended with The Nine of SpadesPlayer Attacked with The Eight of Spades
+New Bout
+AI attakcs with The Eight of DiamondsPlayer Attacked with The Eight of Diamonds
+Player defends with The Jack of Diamonds
+AI attakcs with The Jack of HeartsPlayer Attacked with The Jack of Hearts
+Player defends with The Queen of Hearts
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ace of Hearts
+New Bout
+AI attakcs with The Ten of HeartsPlayer Attacked with The Ten of Hearts
+New Bout
+Player attakcs with The Ten of Hearts
+AI defended with The Ace of HeartsPlayer Attacked with The Ten of Hearts
+Player attakcs with The Ace of Diamonds
+New Bout
+AI attakcs with The Ten of SpadesPlayer Attacked with The Ten of SpadesPlayer Attacked with The Ten of Spades
+New Bout
+Player attakcs with The Seven of Spades
+AI defended with The Jack of SpadesPlayer Attacked with The Seven of Spades
+Player attakcs with The Seven of Diamonds
+AI defended with The Ace of DiamondsPlayer Attacked with The Seven of Diamonds
+New Bout
+AI attakcs with The Six of Hearts
+New Bout
+Player attakcs with The Six of Spades
+AI defended with The Ace of SpadesPlayer Attacked with The Six of Spades
+Player attakcs with The Six of Hearts
+AI defended with The Ten of HeartsPlayer Attacked with The Six of Hearts
+Player attakcs with The Ten of Spades
+New Bout
+AI attakcs with The Six of SpadesPlayer Attacked with The Six of SpadesPlayer Attacked with The Six of SpadesPlayer Attacked with The Six of SpadesPlayer Attacked with The Six of Spades
+New Bout
+Player attakcs with The Six of Spades
+AI defended with The Ten of SpadesPlayer Attacked with The Six of Spades
+New Bout
+AI attakcs with The Six of Hearts
+Player defends with The Nine of Hearts
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Six of Diamonds
+New Bout
+AI attakcs with The Six of DiamondsPlayer Attacked with The Six of Diamonds
+Player defends with The Nine of Diamonds
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ten of Diamonds
+New Bout
+AI attakcs with The Ten of HeartsPlayer Attacked with The Ten of Hearts
+New Bout
+Player attakcs with The Ten of Hearts
+AI defended with The Ace of HeartsPlayer Attacked with The Ten of Hearts
+Player attakcs with The Ace of Clubs
+Player attakcs with The Nine of Clubs
+AI defended with The Ten of ClubsPlayer Attacked with The Nine of ClubsPlayer Attacked with The Nine of Clubs
+New Bout
+AI attakcs with The Seven of Diamonds
+Player defends with The Queen of Diamonds
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Six of Clubs
+AI defended with The Eight of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of ClubsPlayer Attacked with The Six of Clubs
+Player attakcs with The Six of Diamonds
+AI defended with The Nine of DiamondsPlayer Attacked with The Six of DiamondsPlayer Attacked with The Six of Diamonds
+New Bout
+AI attakcs with The Eight of Hearts
+Player defends with The Ten of Hearts
+AI attakcs with The Ten of DiamondsPlayer Attacked with The Ten of DiamondsPlayer Attacked with The Ten of DiamondsPlayer Attacked with The Ten of Diamonds
+New Bout
+Player attakcs with The Queen of Clubs
+New Bout
+AI attakcs with The Jack of DiamondsPlayer Attacked with The Jack of DiamondsPlayer Attacked with The Jack of Diamonds
+New Bout
+Player attakcs with The Ace of Clubs
+New Bout
+AI attakcs with The Queen of HeartsPlayer Attacked with The Queen of Hearts
+New Bout
+Player attakcs with The Eight of Hearts
+New Bout
+AI attakcs with The Eight of HeartsPlayer Attacked with The Eight of Hearts
+Player attakcs with The Eight of Clubs
+AI defended with The Nine of ClubsPlayer Attacked with The Eight of ClubsPlayer Attacked with The Eight of Clubs
+Player attakcs with The Nine of Spades
+New Bout
+AI attakcs with The Six of ClubsPlayer Attacked with The Six of Clubs
+Player attakcs with The Six of Hearts
+AI defended with The Ace of HeartsPlayer Attacked with The Six of Hearts
+New Bout
+AI attakcs with The Six of Spades
+Player defends with The Ten of Spades
+New BoutPlayer Attacked with The Ace of Clubs
+New Bout
+AI attakcs with The Eight of Clubs
+Player attakcs with The Seven of Clubs
+AI defended with The Eight of ClubsPlayer Attacked with The Seven of Clubs
+New Bout
+AI attakcs with The Eight of Spades
+Player defends with The Ace of Spades
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Six of Clubs
+AI defended with The Queen of ClubsPlayer Attacked with The Six of Clubs
+Player attakcs with The Six of Spades
+AI defended with The Queen of SpadesPlayer Attacked with The Six of Spades
+New Bout
+AI attakcs with The Eight of Hearts
+Player defends with The Jack of Hearts
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Nine of Clubs
+AI defended with The Ace of ClubsPlayer Attacked with The Nine of Clubs
+New Bout
+AI attakcs with The Nine of Spades
+Player defends with The Ten of Spades
+AI attakcs with The Ten of HeartsPlayer Attacked with The Ten of Hearts
+New Bout
+Player attakcs with The Ten of Clubs
+New Bout
+AI attakcs with The Seven of SpadesPlayer Attacked with The Seven of Spades
+Player defends with The Nine of Spades
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ten of Spades
+New Bout
+AI attakcs with The Ten of ClubsPlayer Attacked with The Ten of Clubs
+Player defends with The Jack of Clubs
+AI attakcs with The Ten of SpadesPlayer Attacked with The Ten of Spades
+Player defends with The Jack of Spades
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Six of Hearts
+AI defended with The Ace of HeartsPlayer Attacked with The Six of Hearts
+Player attakcs with The Seven of Clubs
+AI defended with The Queen of ClubsPlayer Attacked with The Seven of ClubsPlayer Attacked with The Seven of Clubs
+New Bout
+AI attakcs with The Six of Clubs
+Player defends with The King of Clubs
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ace of Clubs
+New Bout
+AI attakcs with The Six of DiamondsPlayer Attacked with The Six of Diamonds
+Player defends with The Ten of Diamonds
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Seven of Hearts
+AI defended with The Nine of HeartsPlayer Attacked with The Seven of Hearts
+Player attakcs with The Four of Clubs
+AI defended with The Seven of ClubsPlayer Attacked with The Four of Clubs
+New Bout
+AI attakcs with The Deuce of Diamonds
+New Bout
+Player attakcs with The Deuce of Diamonds
+AI defended with The Five of DiamondsPlayer Attacked with The Deuce of Diamonds
+Player attakcs with The Five of Spades
+AI defended with The Eight of SpadesPlayer Attacked with The Five of Spades
+New Bout
+AI attakcs with The Eight of DiamondsPlayer Attacked with The Eight of Diamonds
+New Bout
+Player attakcs with The Jack of Clubs
+New Bout
+AI attakcs with The Ten of SpadesPlayer Attacked with The Ten of Spades
+Player defends with The Ace of Spades
+AI attakcs with The Ace of DiamondsPlayer Attacked with The Ace of Diamonds
+New Bout
+Player attakcs with The Three of Spades
+New Bout
+AI attakcs with The Three of SpadesPlayer Attacked with The Three of Spades
+Player defends with The Ten of Spades
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Queen of Clubs
+New Bout
+AI attakcs with The Seven of SpadesPlayer Attacked with The Seven of Spades
+Player defends with The Ten of Spades
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The King of Clubs
+New Bout
+AI attakcs with The Eight of ClubsPlayer Attacked with The Eight of Clubs
+New Bout
+Player attakcs with The Eight of Clubs
+AI defended with The Nine of ClubsPlayer Attacked with The Eight of Clubs
+Player attakcs with The Nine of Diamonds
+New Bout
+AI attakcs with The Eight of ClubsPlayer Attacked with The Eight of Clubs
+New Bout
+Player attakcs with The Eight of Clubs
+AI defended with The Nine of ClubsPlayer Attacked with The Eight of Clubs
+Player attakcs with The Eight of Spades
+New Bout
+AI attakcs with The Eight of ClubsPlayer Attacked with The Eight of Clubs
+New Bout
+Player attakcs with The Jack of Spades
+New Bout
+AI attakcs with The Eight of SpadesPlayer Attacked with The Eight of Spades
+Player defends with The King of Spades
+AI attakcs with The King of ClubsPlayer Attacked with The King of Clubs
+New Bout
+Player attakcs with The Eight of Clubs
+AI defended with The Nine of ClubsPlayer Attacked with The Eight of Clubs
+Player attakcs with The Eight of Spades
+AI defended with The Jack of SpadesPlayer Attacked with The Eight of Spades
+New Bout
+AI attakcs with The Six of Spades
+Player defends with The King of Spades
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The King of Clubs
+New Bout
+AI attakcs with The Nine of DiamondsPlayer Attacked with The Nine of Diamonds
+Player defends with The Ten of Diamonds
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Six of Diamonds
+New Bout
+AI attakcs with The Six of DiamondsPlayer Attacked with The Six of Diamonds
+Player defends with The King of Diamonds
+AI attakcs with The King of ClubsPlayer Attacked with The King of Clubs
+Player attakcs with The Queen of Clubs
+AI defended with The Ace of ClubsPlayer Attacked with The Queen of Clubs
+New Bout
+AI attakcs with The Six of Spades
+Player attakcs with The Six of Clubs
+AI defended with The Nine of ClubsPlayer Attacked with The Six of Clubs
+New Bout
+AI attakcs with The Six of Spades
+Player defends with The Seven of Spades
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ace of Clubs
+New Bout
+AI attakcs with The Eight of DiamondsPlayer Attacked with The Eight of Diamonds
+Player defends with The Ten of Diamonds
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Jack of Spades
+AI defended with The Ace of SpadesPlayer Attacked with The Jack of Spades
+Player attakcs with The Jack of Diamonds
+AI defended with The Ace of DiamondsPlayer Attacked with The Jack of Diamonds
+New Bout
+AI attakcs with The Nine of Diamonds
+New Bout
+Player attakcs with The Nine of Spades
+New Bout
+AI attakcs with The Nine of SpadesPlayer Attacked with The Nine of Spades
+Player defends with The Queen of Spades
+AI attakcs with The Queen of ClubsPlayer Attacked with The Queen of Clubs
+New Bout
+Player attakcs with The Queen of Clubs
+AI defended with The Ace of ClubsPlayer Attacked with The Queen of Clubs
+Player attakcs with The Queen of Spades
+New Bout
+AI attakcs with The Jack of ClubsPlayer Attacked with The Jack of Clubs
+New Bout
+Player attakcs with The Jack of Clubs
+AI defended with The Queen of ClubsPlayer Attacked with The Jack of Clubs
+New Bout
+AI attakcs with The Queen of Spades
+New Bout
+Player attakcs with The Six of Diamonds
+AI defended with The Seven of DiamondsPlayer Attacked with The Six of Diamonds
+New Bout
+AI attakcs with The King of Diamonds
+New Bout
+Player attakcs with The Nine of Spades
+New Bout
+AI attakcs with The Nine of SpadesPlayer Attacked with The Nine of Spades
+Player defends with The Queen of Spades
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Eight of Clubs
+AI defended with The Ace of ClubsPlayer Attacked with The Eight of Clubs
+New Bout
+AI attakcs with The King of Spades
+New Bout
+Player attakcs with The Seven of Clubs
+AI defended with The King of ClubsPlayer Attacked with The Seven of Clubs
+Player attakcs with The King of Spades
+New Bout
+AI attakcs with The Seven of ClubsPlayer Attacked with The Seven of Clubs
+Player defends with The Ten of Clubs
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Eight of Spades
+AI defended with The King of SpadesPlayer Attacked with The Eight of Spades
+Player attakcs with The King of Diamonds
+New Bout
+AI attakcs with The Eight of SpadesPlayer Attacked with The Eight of Spades
+Player defends with The Ten of Spades
+Player attakcs with The Seven of Hearts
+AI defended with The Ace of HeartsPlayer Attacked with The Seven of Hearts
+New Bout
+AI attakcs with The Six of Hearts
+Player defends with The Jack of Hearts
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Nine of Spades
+New Bout
+AI attakcs with The Seven of SpadesPlayer Attacked with The Seven of Spades
+Player defends with The Ten of Spades
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Nine of Hearts
+New Bout
+AI attakcs with The Eight of ClubsPlayer Attacked with The Eight of Clubs
+Player defends with The King of Clubs
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ace of Clubs
+New Bout
+AI attakcs with The Nine of SpadesPlayer Attacked with The Nine of Spades
+Player defends with The Queen of Spades
+AI attakcs with The Nine of HeartsPlayer Attacked with The Nine of Hearts
+Player defends with The King of Hearts
+New BoutPlayer Attacked with The Ace of Clubs
+Player attakcs with The Ten of Clubs
+AI defended with The Ace of ClubsPlayer Attacked with The Ten of Clubs
