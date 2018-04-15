@@ -1,0 +1,138 @@
+<!--
+Name: Francis Hackenberger
+Student Number: 100555523
+-->
+
+<html>
+	<head>
+        
+        <!--Bootstrap CSS-->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <!--jQuery-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" ></script>
+        <!--Bootstrap JS-->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+   
+        <style>
+            .winner{
+                color: green;
+            }
+            
+            .loser{
+                color: red;
+            }
+            
+            .tie{
+                color: gold;
+            }
+        </style>
+    </head>
+
+	<body>
+        <div class="container">
+            <div class="jumbotron">
+                <h1 class="text-center">WEBC 6201 - TEST3</h1>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-5">
+                        <div id="player1" class="well well-lg" style="background-color: #444444;"></div>
+                    </div>
+                    
+                    <div class="col-sm-2" style="position: relative">
+                        <button id="btnDraw" class="btn btn-primary btn-lg center-block" style="position: ; bottom: 0;">DRAW!</button>
+                        <h2 class="text-center" id="lblScore">0/0</h2>
+                    </div>
+
+                    <div class="col-sm-5">
+                        <div id="player2" class="well well-lg" style="background-color: #444444;"></div>
+                    </div>
+                </div><!--/row-->              
+            </div><!--/jumbotron-->
+        </div><!--/container-->
+	</body>
+
+	<script>
+        
+		$(document).ready(function() {
+			var deck_id;
+			var p1score = 0;
+			var p2score = 0;
+			
+			$.ajax({
+				method: "GET",
+				url: "https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1",
+				success: function(data){
+					deck_id = data.deck_id;
+					
+					$("#btnDraw").on("click",function(){
+						
+						$.ajax({
+							method: "GET",
+							url: "https://deckofcardsapi.com/api/deck/"+deck_id+"/draw/?count=2",
+							success: function(data){
+								if (data.remaining > 0){
+									$("#player1").append($('<h6 id='+data.cards[0].code+'>'+data.cards[0].value+' of '+data.cards[0].suit+'</h6>'));
+									$("#player2").append($('<h6 id='+data.cards[1].code+'>'+data.cards[1].value+' of '+data.cards[1].suit+'</h6>'));
+									
+									var p1card = data.cards[0].value;
+									var p2card = data.cards[1].value;
+									
+									if (p1card == "ACE"){p1card = 14}
+									else if (p1card == "KING"){p1card = 13}
+									else if (p1card == "QUEEN"){p1card = 12}
+									else if (p1card == "JACK"){p1card = 11}
+									else { p1card =  parseInt(p1card)}
+									if (p2card == "ACE"){p2card = 14}
+									else if (p2card == "KING"){p2card = 13}
+									else if (p2card == "QUEEN"){p2card = 12}
+									else if (p2card == "JACK"){p2card = 11}
+									else { p2card =  parseInt(p2card)}
+									
+									
+									// compare
+									if (p1card > p2card){
+										$("#"+data.cards[0].code).addClass("winner");
+										$("#"+data.cards[1].code).addClass("loser");
+										p1score++;
+									}
+									else if (p2card > p1card) {
+										$("#"+data.cards[1].code).addClass("winner");
+										$("#"+data.cards[0].code).addClass("loser");
+										p2score++;
+									}
+									else {
+										$("#"+data.cards[1].code).addClass("tie");
+										$("#"+data.cards[0].code).addClass("tie");
+									}
+									
+									$("#lblScore").html(p1score+"/"+p2score);
+								}
+								else {
+									if (p1score > p2score){
+										alert("Game Over\nPlayer 1 wins!");
+									}
+									else if (p2score > p1score) {
+										alert("Game Over\nPlayer 2 wins!");
+									}
+									else {
+										alert("Game Over!\nIt was a tie :(");
+									}
+								}
+							
+							}
+						});
+			
+					});
+					
+	
+				}
+			});
+			
+			
+		
+		});
+        
+		
+	</script>
+
+</html>
