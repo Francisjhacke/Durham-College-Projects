@@ -1,0 +1,17 @@
+Login information for different user types on the People Library website
+
+COMPLETED CLIENT
+Login: testclient3
+Password: password
+
+INCOMPLETE CLIENT
+Login: incompleteclient
+Password: password
+
+DISABLED CLIENT
+Login: disabledclient
+Password: password
+
+ADMIN
+Login: adminclient
+Password: password
